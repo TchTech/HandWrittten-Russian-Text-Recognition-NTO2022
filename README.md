@@ -2,6 +2,12 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+<div style='text-align: center; display: flex; justify-content: center; align-items: center'>
+  <img src='imgs/icon.png' width=500/>
+  <br />
+  <img src='imgs/examples.png' width=500/>
+</div>
+
 ## Описание
 
 Этот проект на PyTorch реализует модель искусственного интеллекта для распознавания рукописного текста. Модель состоит из двух частей:
